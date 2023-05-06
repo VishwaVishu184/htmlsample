@@ -1,0 +1,12 @@
+div{
+    background-color: yellow;
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*phone DISPLAY*/
+@media  screen and {
+    
+}
